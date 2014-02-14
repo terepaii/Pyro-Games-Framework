@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\include\Concrete\CollisionHandler.h" />
+    <ClInclude Include="..\..\..\include\Concrete\HeadsUpDisplay.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\AggressiveState.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\Enemy.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\EntityFactory.h" />
+    <ClInclude Include="..\..\..\include\Concrete\InGameState.h" />
+    <ClInclude Include="..\..\..\include\Concrete\LargeEnemyTemplate.h" />
+    <ClInclude Include="..\..\..\include\Concrete\MoveEntityLeftCommand.h" />
+    <ClInclude Include="..\..\..\include\Concrete\MoveEntityRightCommand.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\PassiveState.h" />
+    <ClInclude Include="..\..\..\include\Concrete\PlayerTemplate.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\PolygonDraw.h" />
+    <ClInclude Include="..\..\..\include\Concrete\InputHandler.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\Player.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\NormalDraw.h" />
+    <ClInclude Include="..\..\..\include\Concrete\Projectile.h" />
+    <ClInclude Include="..\..\..\include\Concrete\ProjectileTemplate.h" />
+    <ClInclude Include="..\..\..\include\Concrete\RendererFactory.h" />
+    <ClInclude Include="..\..\..\include\Concrete\ShootCommand.h" />
+    <ClInclude Include="..\..\..\include\Concrete\SmallEnemyTemplate.h" />
+    <ClInclude Include="..\..\..\Include\Concrete\Squaliens.h" />
+    <ClInclude Include="..\..\..\include\Concrete\StartCommand.h" />
+    <ClInclude Include="..\..\..\include\Concrete\StartScreen.h" />
+    <ClInclude Include="..\..\..\include\Concrete\StartScreenState.h" />
+    <ClInclude Include="..\..\..\include\Concrete\Subject.h" />
+    <ClInclude Include="..\..\..\include\Concrete\World.h" />
+    <ClInclude Include="..\..\..\include\Interfaces\ICommand.h" />
+    <ClInclude Include="..\..\..\include\Interfaces\IEntity.h" />
+    <ClInclude Include="..\..\..\include\Interfaces\IEntityTemplate.h" />
+    <ClInclude Include="..\..\..\Include\Interfaces\IGame.h" />
+    <ClInclude Include="..\..\..\include\Interfaces\ISqualiensState.h" />
+    <ClInclude Include="..\..\..\include\Interfaces\IObserver.h" />
+    <ClInclude Include="..\..\..\Include\Interfaces\IRenderer.h" />
+    <ClInclude Include="..\..\..\include\Utils.h" />
+    <ClInclude Include="..\..\..\Include\Interfaces\IEnemyState.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\AggressiveState.cpp" />
+    <ClCompile Include="..\..\..\src\CollisionHandler.cpp" />
+    <ClCompile Include="..\..\..\src\Enemy.cpp" />
+    <ClCompile Include="..\..\..\src\EntityFactory.cpp" />
+    <ClCompile Include="..\..\..\src\HeadsUpDisplay.cpp" />
+    <ClCompile Include="..\..\..\src\IEntity.cpp" />
+    <ClCompile Include="..\..\..\src\InGameState.cpp" />
+    <ClCompile Include="..\..\..\src\InputHandler.cpp" />
+    <ClCompile Include="..\..\..\src\LargeEnemyTemplate.cpp" />
+    <ClCompile Include="..\..\..\src\Main.cpp" />
+    <ClCompile Include="..\..\..\src\MoveEntityLeftCommand.cpp" />
+    <ClCompile Include="..\..\..\src\MoveEntityRightCommand.cpp" />
+    <ClCompile Include="..\..\..\src\PassiveState.cpp" />
+    <ClCompile Include="..\..\..\src\Player.cpp" />
+    <ClCompile Include="..\..\..\src\PlayerTemplate.cpp" />
+    <ClCompile Include="..\..\..\src\PolygonDraw.cpp" />
+    <ClCompile Include="..\..\..\src\NormalDraw.cpp" />
+    <ClCompile Include="..\..\..\src\Projectile.cpp" />
+    <ClCompile Include="..\..\..\src\ProjectileTemplate.cpp" />
+    <ClCompile Include="..\..\..\src\RendererFactory.cpp" />
+    <ClCompile Include="..\..\..\src\ShootCommand.cpp" />
+    <ClCompile Include="..\..\..\src\SmallEnemyTemplate.cpp" />
+    <ClCompile Include="..\..\..\src\Squaliens.cpp" />
+    <ClCompile Include="..\..\..\src\StartCommand.cpp" />
+    <ClCompile Include="..\..\..\src\StartScreen.cpp" />
+    <ClCompile Include="..\..\..\src\StartScreenState.cpp" />
+    <ClCompile Include="..\..\..\src\Subject.cpp" />
+    <ClCompile Include="..\..\..\src\World.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5D5FB691-F5DF-4E65-B205-F9653122FC60}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>DesignPatternsProject</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)/../../include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)/../../lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-audio-d.lib;sfml-system-d.lib;sfml-window-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)/../../include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(SolutionDir)/../../lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics.lib;sfml-audio.lib;sfml-system.lib;sfml-window.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

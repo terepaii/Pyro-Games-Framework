@@ -1,0 +1,5 @@
+<map id="CollisionHandler::onCollision" name="CollisionHandler::onCollision">
+<area shape="rect" id="node2" href="$class_world.html#a1a97411eb1695686ced14d388faf8a50" title="World::checkCollisions" alt="" coords="240,5,395,32"/>
+<area shape="rect" id="node3" href="$class_world.html#aac8c1fde63c06577ffc648aaefdb37f0" title="World::update" alt="" coords="443,5,546,32"/>
+<area shape="rect" id="node4" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="595,5,741,32"/>
+</map>

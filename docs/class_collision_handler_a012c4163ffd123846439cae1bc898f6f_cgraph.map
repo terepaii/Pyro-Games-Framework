@@ -1,0 +1,4 @@
+<map id="CollisionHandler::handleProjectileEnemyCollision" name="CollisionHandler::handleProjectileEnemyCollision">
+<area shape="rect" id="node2" href="$class_i_entity.html#aefce6f45bb4cdb5d45db381f452a2ed7" title="IEntity::kill" alt="" coords="261,5,344,32"/>
+<area shape="rect" id="node3" href="$class_subject.html#a130edb815aef88deebc1542a32fa9af9" title="Subject::notifyObservers" alt="" coords="221,56,384,83"/>
+</map>

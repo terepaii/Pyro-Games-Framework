@@ -1,0 +1,6 @@
+<map id="PassiveState::handle" name="PassiveState::handle">
+<area shape="rect" id="node2" href="$class_i_entity.html#a7288d7c0b1329dd258f917221367802b" title="IEntity::moveDown" alt="" coords="198,5,327,32"/>
+<area shape="rect" id="node4" href="$class_enemy.html#aaba4de23f292e86c3bf3f7c6882bb849" title="Enemy::setState" alt="" coords="203,56,323,83"/>
+<area shape="rect" id="node3" href="$class_i_entity.html#aac0859e714bf7b3bea7d99689a59f75f" title="IEntity::getVelocity" alt="" coords="379,5,511,32"/>
+<area shape="rect" id="node5" href="$class_i_enemy_state.html#af14899d1d5f585bb193e7032ee1e23c3" title="IEnemyState::onSet" alt="" coords="376,56,515,83"/>
+</map>

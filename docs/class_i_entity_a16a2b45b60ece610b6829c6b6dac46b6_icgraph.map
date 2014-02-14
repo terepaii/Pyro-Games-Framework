@@ -1,0 +1,7 @@
+<map id="IEntity::setColor" name="IEntity::setColor">
+<area shape="rect" id="node2" href="$class_aggressive_state.html#a3960ed7508410a84f661b41d917edb90" title="AggressiveState::onSet" alt="" coords="185,5,343,32"/>
+<area shape="rect" id="node3" href="$class_large_enemy_template.html#aa08dc7cdf7142918f3279d262fa684ed" title="LargeEnemyTemplate\l::createEntity" alt="" coords="190,57,338,98"/>
+<area shape="rect" id="node4" href="$class_player_template.html#afba5c6cf747d58c5c0661f2075824bdb" title="PlayerTemplate::createEntity" alt="" coords="169,123,359,149"/>
+<area shape="rect" id="node5" href="$class_projectile_template.html#a95e2159a9fa0417565dc0c4e67c1138e" title="ProjectileTemplate\l::createEntity" alt="" coords="199,174,329,215"/>
+<area shape="rect" id="node6" href="$class_small_enemy_template.html#a533622dab7cf2474e194d83b68122fe4" title="SmallEnemyTemplate\l::createEntity" alt="" coords="189,239,339,281"/>
+</map>

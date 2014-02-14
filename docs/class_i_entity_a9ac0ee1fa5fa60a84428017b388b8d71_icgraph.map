@@ -1,0 +1,4 @@
+<map id="IEntity::moveRight" name="IEntity::moveRight">
+<area shape="rect" id="node2" href="$class_aggressive_state.html#a4cac8178d67084922f766a3aff9ba4ad" title="AggressiveState::handle" alt="" coords="188,5,351,32"/>
+<area shape="rect" id="node3" href="$class_move_entity_right_command.html#afd5157c6e1c09c922cdeada22876ab05" title="MoveEntityRightCommand\l::execute" alt="" coords="182,57,357,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IEntity::getPos" name="IEntity::getPos">
+<area shape="rect" id="node2" href="$class_move_entity_left_command.html#a614f0d1d7a394e8fabf2a51250bb8b2f" title="MoveEntityLeftCommand\l::execute" alt="" coords="167,5,334,46"/>
+<area shape="rect" id="node3" href="$class_move_entity_right_command.html#afd5157c6e1c09c922cdeada22876ab05" title="MoveEntityRightCommand\l::execute" alt="" coords="163,70,338,111"/>
+<area shape="rect" id="node4" href="$class_shoot_command.html#a488ddbfa156ea727a9e1bcd27aaa403a" title="ShootCommand::execute" alt="" coords="166,136,335,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="InputHandler::update" name="InputHandler::update">
+<area shape="rect" id="node2" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="207,5,353,32"/>
+<area shape="rect" id="node3" href="$class_start_screen_state.html#a7547b6202c436d324d092c1d9533cacb" title="StartScreenState::update" alt="" coords="195,56,365,83"/>
+</map>

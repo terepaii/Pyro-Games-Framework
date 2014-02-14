@@ -1,0 +1,4 @@
+<map id="StartScreenState::update" name="StartScreenState::update">
+<area shape="rect" id="node2" href="$class_squaliens.html#a9515cadbae7356de3f0f373c91b4b8cf" title="Squaliens::getInputHandler" alt="" coords="225,5,402,32"/>
+<area shape="rect" id="node3" href="$class_input_handler.html#a72ec3b0da1f1747064bf00fc9d180d48" title="InputHandler::update" alt="" coords="243,56,384,83"/>
+</map>

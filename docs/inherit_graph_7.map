@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_renderer.html" title="IRenderer" alt="" coords="5,31,83,57"/>
+<area shape="rect" id="node2" href="$class_normal_draw.html" title="NormalDraw" alt="" coords="134,5,226,32"/>
+<area shape="rect" id="node3" href="$class_polygon_draw.html" title="PolygonDraw" alt="" coords="131,56,229,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="InGameState::draw" name="InGameState::draw">
+<area shape="rect" id="node2" href="$class_squaliens.html#acf08fd7a9223417daa125080eab44ec5" title="Squaliens::getWindow" alt="" coords="187,5,338,32"/>
+<area shape="rect" id="node3" href="$class_squaliens.html#aaa6d158eb0d190c54c0d3e66bd18af5a" title="Squaliens::getWorld" alt="" coords="193,56,332,83"/>
+<area shape="rect" id="node4" href="$class_squaliens.html#a685749249a3135e72a014248e55681c7" title="Squaliens::getHUD" alt="" coords="197,107,329,133"/>
+</map>

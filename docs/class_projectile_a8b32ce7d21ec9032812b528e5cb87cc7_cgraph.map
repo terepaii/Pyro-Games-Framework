@@ -1,0 +1,4 @@
+<map id="Projectile::update" name="Projectile::update">
+<area shape="rect" id="node2" href="$class_i_entity.html#a0ab5359db48a2b758603c5f687d025d6" title="IEntity::moveUp" alt="" coords="177,5,290,32"/>
+<area shape="rect" id="node3" href="$class_i_entity.html#aac0859e714bf7b3bea7d99689a59f75f" title="IEntity::getVelocity" alt="" coords="339,5,471,32"/>
+</map>

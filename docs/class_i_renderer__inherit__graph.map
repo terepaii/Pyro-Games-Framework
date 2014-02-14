@@ -1,0 +1,4 @@
+<map id="IRenderer" name="IRenderer">
+<area shape="rect" id="node2" href="$class_normal_draw.html" title="NormalDraw" alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$class_polygon_draw.html" title="PolygonDraw" alt="" coords="121,80,220,107"/>
+</map>

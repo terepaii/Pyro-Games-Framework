@@ -1,0 +1,11 @@
+<map id="include/Interfaces/ISqualiensState.h" name="include/Interfaces/ISqualiensState.h">
+<area shape="rect" id="node2" href="$_in_game_state_8h.html" title="include/Concrete/InGameState.h" alt="" coords="147,187,357,213"/>
+<area shape="rect" id="node7" href="$_squaliens_8h.html" title="include/Concrete/Squaliens.h" alt="" coords="382,187,572,213"/>
+<area shape="rect" id="node10" href="$_start_screen_state_8h.html" title="include/Concrete/StartScreen\lState.h" alt="" coords="448,97,640,138"/>
+<area shape="rect" id="node3" href="$_start_command_8h.html" title="include/Concrete/StartCommand.h" alt="" coords="5,261,227,288"/>
+<area shape="rect" id="node6" href="$_in_game_state_8cpp.html" title="src/InGameState.cpp" alt="" coords="251,261,396,288"/>
+<area shape="rect" id="node4" href="$_start_command_8cpp.html" title="src/StartCommand.cpp" alt="" coords="38,336,193,363"/>
+<area shape="rect" id="node5" href="$_start_screen_state_8cpp.html" title="src/StartScreenState.cpp" alt="" coords="350,336,519,363"/>
+<area shape="rect" id="node8" href="$_main_8cpp.html" title="src/Main.cpp" alt="" coords="473,261,569,288"/>
+<area shape="rect" id="node9" href="$_squaliens_8cpp.html" title="src/Squaliens.cpp" alt="" coords="594,261,720,288"/>
+</map>

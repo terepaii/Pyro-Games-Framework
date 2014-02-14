@@ -1,0 +1,7 @@
+<map id="include/Concrete/ProjectileTemplate.h" name="include/Concrete/ProjectileTemplate.h">
+<area shape="rect" id="node2" href="$_i_entity_template_8h.html" title="Interfaces\\IEntityTemplate.h" alt="" coords="5,96,187,123"/>
+<area shape="rect" id="node8" href="$_projectile_8h.html" title="Concrete\\Projectile.h" alt="" coords="211,96,353,123"/>
+<area shape="rect" id="node9" href="$_polygon_draw_8h.html" title="Concrete\\PolygonDraw.h" alt="" coords="379,96,544,123"/>
+<area shape="rect" id="node3" href="$_i_entity_8h.html" title="IEntity.h" alt="" coords="155,171,225,197"/>
+<area shape="rect" id="node6" href="$_i_renderer_8h.html" title="Interfaces\\IRenderer.h" alt="" coords="313,245,460,272"/>
+</map>

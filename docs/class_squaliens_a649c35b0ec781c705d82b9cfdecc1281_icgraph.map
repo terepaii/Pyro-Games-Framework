@@ -1,0 +1,4 @@
+<map id="Squaliens::loadLargeEnemy" name="Squaliens::loadLargeEnemy">
+<area shape="rect" id="node2" href="$class_squaliens.html#ab9a349e6145205f398c0a28a8dd0b668" title="Squaliens::spawnEnemies" alt="" coords="238,5,413,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="462,5,607,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IEntity::getCollisionBox" name="IEntity::getCollisionBox">
+<area shape="rect" id="node2" href="$class_world.html#a1a97411eb1695686ced14d388faf8a50" title="World::checkCollisions" alt="" coords="211,5,365,32"/>
+<area shape="rect" id="node3" href="$class_world.html#aac8c1fde63c06577ffc648aaefdb37f0" title="World::update" alt="" coords="414,5,517,32"/>
+<area shape="rect" id="node4" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="566,5,711,32"/>
+</map>

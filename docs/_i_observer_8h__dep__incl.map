@@ -1,0 +1,19 @@
+<map id="include/Interfaces/IObserver.h" name="include/Interfaces/IObserver.h">
+<area shape="rect" id="node2" href="$_heads_up_display_8h.html" title="include/Concrete/HeadsUp\lDisplay.h" alt="" coords="331,262,507,303"/>
+<area shape="rect" id="node11" href="$_subject_8h.html" title="include/Concrete/Subject.h" alt="" coords="508,96,687,123"/>
+<area shape="rect" id="node3" href="$_squaliens_8h.html" title="include/Concrete/Squaliens.h" alt="" coords="323,352,513,379"/>
+<area shape="rect" id="node10" href="$_heads_up_display_8cpp.html" title="src/HeadsUpDisplay.cpp" alt="" coords="133,352,299,379"/>
+<area shape="rect" id="node4" href="$_start_command_8h.html" title="include/Concrete/StartCommand.h" alt="" coords="11,427,232,453"/>
+<area shape="rect" id="node6" href="$_start_screen_state_8cpp.html" title="src/StartScreenState.cpp" alt="" coords="185,501,353,528"/>
+<area shape="rect" id="node7" href="$_in_game_state_8cpp.html" title="src/InGameState.cpp" alt="" coords="579,427,724,453"/>
+<area shape="rect" id="node8" href="$_main_8cpp.html" title="src/Main.cpp" alt="" coords="307,427,404,453"/>
+<area shape="rect" id="node9" href="$_squaliens_8cpp.html" title="src/Squaliens.cpp" alt="" coords="429,427,555,453"/>
+<area shape="rect" id="node5" href="$_start_command_8cpp.html" title="src/StartCommand.cpp" alt="" coords="5,501,160,528"/>
+<area shape="rect" id="node12" href="$_collision_handler_8h.html" title="include/Concrete/Collision\lHandler.h" alt="" coords="511,171,683,213"/>
+<area shape="rect" id="node18" href="$_subject_8cpp.html" title="src/Subject.cpp" alt="" coords="707,179,820,205"/>
+<area shape="rect" id="node13" href="$_world_8h.html" title="include/Concrete/World.h" alt="" coords="531,269,699,296"/>
+<area shape="rect" id="node17" href="$_collision_handler_8cpp.html" title="src/CollisionHandler.cpp" alt="" coords="723,269,885,296"/>
+<area shape="rect" id="node14" href="$_shoot_command_8h.html" title="include/Concrete/ShootCommand.h" alt="" coords="539,352,765,379"/>
+<area shape="rect" id="node16" href="$_world_8cpp.html" title="src/World.cpp" alt="" coords="790,352,892,379"/>
+<area shape="rect" id="node15" href="$_shoot_command_8cpp.html" title="src/ShootCommand.cpp" alt="" coords="749,427,912,453"/>
+</map>

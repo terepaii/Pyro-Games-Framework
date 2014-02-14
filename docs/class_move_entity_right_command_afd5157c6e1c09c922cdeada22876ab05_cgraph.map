@@ -1,0 +1,6 @@
+<map id="MoveEntityRightCommand::execute" name="MoveEntityRightCommand::execute">
+<area shape="rect" id="node2" href="$class_i_entity.html#afe1d7a5e649b65b9355a0e44704f94cd" title="IEntity::getPos" alt="" coords="239,5,347,32"/>
+<area shape="rect" id="node3" href="$class_i_entity.html#a316408901fc40ff73012466b74a00c0a" title="IEntity::getSize" alt="" coords="238,56,349,83"/>
+<area shape="rect" id="node4" href="$class_i_entity.html#a9ac0ee1fa5fa60a84428017b388b8d71" title="IEntity::moveRight" alt="" coords="230,107,357,133"/>
+<area shape="rect" id="node5" href="$class_i_entity.html#aac0859e714bf7b3bea7d99689a59f75f" title="IEntity::getVelocity" alt="" coords="406,107,538,133"/>
+</map>

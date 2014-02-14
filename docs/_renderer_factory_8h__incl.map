@@ -1,0 +1,5 @@
+<map id="include/Concrete/RendererFactory.h" name="include/Concrete/RendererFactory.h">
+<area shape="rect" id="node4" href="$_i_renderer_8h.html" title="Interfaces\\IRenderer.h" alt="" coords="441,171,588,197"/>
+<area shape="rect" id="node6" href="$_polygon_draw_8h.html" title="Concrete\\PolygonDraw.h" alt="" coords="312,96,477,123"/>
+<area shape="rect" id="node8" href="$_normal_draw_8h.html" title="Concrete\\NormalDraw.h" alt="" coords="553,96,711,123"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="LargeEnemyTemplate::createEntity" name="LargeEnemyTemplate::createEntity">
+<area shape="rect" id="node2" href="$class_i_entity.html#a84ead7ae7eaa1f2d3e97a64abb7ef39f" title="IEntity::setPos" alt="" coords="237,5,345,32"/>
+<area shape="rect" id="node3" href="$class_i_entity.html#a16a2b45b60ece610b6829c6b6dac46b6" title="IEntity::setColor" alt="" coords="233,56,348,83"/>
+<area shape="rect" id="node4" href="$class_i_entity.html#a2ff979568e29f10561281aa16be60c3a" title="IEntity::setRenderer" alt="" coords="222,107,359,133"/>
+<area shape="rect" id="node5" href="$class_renderer_factory.html#a184566dc1051b3953df507601a4e61c4" title="RendererFactory::instance" alt="" coords="203,157,378,184"/>
+<area shape="rect" id="node6" href="$class_i_entity.html#a03dc8a691740aad739e32d041c1ee6ee" title="IEntity::setSize" alt="" coords="235,208,346,235"/>
+<area shape="rect" id="node7" href="$class_i_entity.html#a736e7bcef7e0f060781744df0e1286f9" title="IEntity::setVelocity" alt="" coords="225,259,357,285"/>
+<area shape="rect" id="node8" href="$class_enemy.html#aaba4de23f292e86c3bf3f7c6882bb849" title="Enemy::setState" alt="" coords="231,309,351,336"/>
+<area shape="rect" id="node9" href="$class_i_enemy_state.html#af14899d1d5f585bb193e7032ee1e23c3" title="IEnemyState::onSet" alt="" coords="427,309,565,336"/>
+</map>

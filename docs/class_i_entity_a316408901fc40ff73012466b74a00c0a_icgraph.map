@@ -1,0 +1,6 @@
+<map id="IEntity::getSize" name="IEntity::getSize">
+<area shape="rect" id="node2" href="$class_move_entity_right_command.html#afd5157c6e1c09c922cdeada22876ab05" title="MoveEntityRightCommand\l::execute" alt="" coords="166,5,341,46"/>
+<area shape="rect" id="node3" href="$class_shoot_command.html#a488ddbfa156ea727a9e1bcd27aaa403a" title="ShootCommand::execute" alt="" coords="169,71,338,97"/>
+<area shape="rect" id="node4" href="$class_squaliens.html#a514d13f7ac44791fbf218e981c142a16" title="Squaliens::loadPlayer" alt="" coords="179,121,327,148"/>
+<area shape="rect" id="node5" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="390,121,530,148"/>
+</map>

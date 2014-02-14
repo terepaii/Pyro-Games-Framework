@@ -1,0 +1,10 @@
+<map id="World::update" name="World::update">
+<area shape="rect" id="node2" href="$class_i_entity.html#a83f41d0066364e4b8a26997ad11e5da1" title="IEntity::isDead" alt="" coords="181,5,288,32"/>
+<area shape="rect" id="node3" href="$class_i_entity.html#a556e11eb6fa12864de1620ee3555ce58" title="IEntity::update" alt="" coords="181,56,288,83"/>
+<area shape="rect" id="node4" href="$class_world.html#a1a97411eb1695686ced14d388faf8a50" title="World::checkCollisions" alt="" coords="157,107,312,133"/>
+<area shape="rect" id="node5" href="$class_i_entity.html#ad8d45723fac563c6a48d11f49a2a0383" title="IEntity::getCollisionBox" alt="" coords="375,81,532,108"/>
+<area shape="rect" id="node6" href="$class_collision_handler.html#a8ff91da4de2115946f9ba567a54a8c6b" title="CollisionHandler::onCollision" alt="" coords="360,132,547,159"/>
+<area shape="rect" id="node7" href="$class_collision_handler.html#a012c4163ffd123846439cae1bc898f6f" title="CollisionHandler::handle\lProjectileEnemyCollision" alt="" coords="595,125,762,166"/>
+<area shape="rect" id="node8" href="$class_i_entity.html#aefce6f45bb4cdb5d45db381f452a2ed7" title="IEntity::kill" alt="" coords="851,107,933,133"/>
+<area shape="rect" id="node9" href="$class_subject.html#a130edb815aef88deebc1542a32fa9af9" title="Subject::notifyObservers" alt="" coords="811,157,973,184"/>
+</map>

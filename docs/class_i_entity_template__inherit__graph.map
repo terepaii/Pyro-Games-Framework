@@ -1,0 +1,6 @@
+<map id="IEntityTemplate" name="IEntityTemplate">
+<area shape="rect" id="node2" href="$class_large_enemy_template.html" title="LargeEnemyTemplate" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_player_template.html" title="PlayerTemplate" alt="" coords="177,80,289,107"/>
+<area shape="rect" id="node4" href="$class_projectile_template.html" title="ProjectileTemplate" alt="" coords="314,80,443,107"/>
+<area shape="rect" id="node5" href="$class_small_enemy_template.html" title="SmallEnemyTemplate" alt="" coords="468,80,617,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/Concrete/SmallEnemyTemplate.h" name="include/Concrete/SmallEnemyTemplate.h">
+<area shape="rect" id="node2" href="$_i_entity_template_8h.html" title="Interfaces\\IEntityTemplate.h" alt="" coords="5,96,187,123"/>
+<area shape="rect" id="node8" href="$_enemy_8h.html" title="Concrete\\Enemy.h" alt="" coords="212,96,343,123"/>
+<area shape="rect" id="node10" href="$_passive_state_8h.html" title="PassiveState.h" alt="" coords="367,96,476,123"/>
+<area shape="rect" id="node12" href="$_polygon_draw_8h.html" title="Concrete\\PolygonDraw.h" alt="" coords="504,96,669,123"/>
+<area shape="rect" id="node3" href="$_i_entity_8h.html" title="IEntity.h" alt="" coords="94,171,164,197"/>
+<area shape="rect" id="node6" href="$_i_renderer_8h.html" title="Interfaces\\IRenderer.h" alt="" coords="419,245,567,272"/>
+<area shape="rect" id="node9" href="$_i_enemy_state_8h.html" title="Interfaces\\IEnemyState.h" alt="" coords="189,171,357,197"/>
+</map>

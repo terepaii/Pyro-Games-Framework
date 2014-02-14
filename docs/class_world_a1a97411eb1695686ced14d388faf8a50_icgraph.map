@@ -1,0 +1,4 @@
+<map id="World::checkCollisions" name="World::checkCollisions">
+<area shape="rect" id="node2" href="$class_world.html#aac8c1fde63c06577ffc648aaefdb37f0" title="World::update" alt="" coords="209,5,311,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="361,5,506,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Squaliens::getWindow" name="Squaliens::getWindow">
+<area shape="rect" id="node2" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="214,5,354,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a55ad6dd300bfd576510605baf7e4b834" title="InGameState::draw" alt="" coords="217,56,351,83"/>
+<area shape="rect" id="node4" href="$class_start_screen_state.html#adfefa85aa9d0036ac85e55dadce8fa79" title="StartScreenState::draw" alt="" coords="205,107,363,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Squaliens::loadSmallEnemy" name="Squaliens::loadSmallEnemy">
+<area shape="rect" id="node2" href="$class_squaliens.html#ab9a349e6145205f398c0a28a8dd0b668" title="Squaliens::spawnEnemies" alt="" coords="241,5,415,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="465,5,610,32"/>
+</map>

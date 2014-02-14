@@ -1,0 +1,16 @@
+<map id="include/Concrete/CollisionHandler.h" name="include/Concrete/CollisionHandler.h">
+<area shape="rect" id="node2" href="$_heads_up_display_8h.html" title="include/Concrete/HeadsUp\lDisplay.h" alt="" coords="331,97,507,138"/>
+<area shape="rect" id="node11" href="$_world_8h.html" title="include/Concrete/World.h" alt="" coords="549,104,717,131"/>
+<area shape="rect" id="node15" href="$_collision_handler_8cpp.html" title="src/CollisionHandler.cpp" alt="" coords="741,104,904,131"/>
+<area shape="rect" id="node3" href="$_squaliens_8h.html" title="include/Concrete/Squaliens.h" alt="" coords="323,187,513,213"/>
+<area shape="rect" id="node10" href="$_heads_up_display_8cpp.html" title="src/HeadsUpDisplay.cpp" alt="" coords="133,187,299,213"/>
+<area shape="rect" id="node4" href="$_start_command_8h.html" title="include/Concrete/StartCommand.h" alt="" coords="11,261,232,288"/>
+<area shape="rect" id="node6" href="$_start_screen_state_8cpp.html" title="src/StartScreenState.cpp" alt="" coords="185,336,353,363"/>
+<area shape="rect" id="node7" href="$_in_game_state_8cpp.html" title="src/InGameState.cpp" alt="" coords="579,261,724,288"/>
+<area shape="rect" id="node8" href="$_main_8cpp.html" title="src/Main.cpp" alt="" coords="307,261,404,288"/>
+<area shape="rect" id="node9" href="$_squaliens_8cpp.html" title="src/Squaliens.cpp" alt="" coords="429,261,555,288"/>
+<area shape="rect" id="node5" href="$_start_command_8cpp.html" title="src/StartCommand.cpp" alt="" coords="5,336,160,363"/>
+<area shape="rect" id="node12" href="$_shoot_command_8h.html" title="include/Concrete/ShootCommand.h" alt="" coords="539,187,765,213"/>
+<area shape="rect" id="node14" href="$_world_8cpp.html" title="src/World.cpp" alt="" coords="790,187,892,213"/>
+<area shape="rect" id="node13" href="$_shoot_command_8cpp.html" title="src/ShootCommand.cpp" alt="" coords="749,261,912,288"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="InGameState::onSet" name="InGameState::onSet">
+<area shape="rect" id="node2" href="$class_squaliens.html#a1a35165659b05a86e4c04b8ea4883511" title="Squaliens::loadHUD" alt="" coords="221,96,360,123"/>
+<area shape="rect" id="node6" href="$class_squaliens.html#a514d13f7ac44791fbf218e981c142a16" title="Squaliens::loadPlayer" alt="" coords="217,324,365,351"/>
+<area shape="rect" id="node13" href="$class_squaliens.html#a9515cadbae7356de3f0f373c91b4b8cf" title="Squaliens::getInputHandler" alt="" coords="202,404,379,431"/>
+<area shape="rect" id="node14" href="$class_input_handler.html#a029b59c1c40e2d5145e50ce78de7e782" title="InputHandler::removeAllBinds" alt="" coords="195,455,386,481"/>
+<area shape="rect" id="node17" href="$class_input_handler.html#a97a41445f082e215fb00ca3bbf28136e" title="InputHandler::setBind" alt="" coords="217,505,364,532"/>
+<area shape="rect" id="node18" href="$class_squaliens.html#acf08fd7a9223417daa125080eab44ec5" title="Squaliens::getWindow" alt="" coords="215,556,366,583"/>
+<area shape="rect" id="node19" href="$class_squaliens.html#aaa6d158eb0d190c54c0d3e66bd18af5a" title="Squaliens::getWorld" alt="" coords="221,607,360,633"/>
+<area shape="rect" id="node3" href="$class_heads_up_display.html#a3f7c58276a064757302b91df20dfd135" title="HeadsUpDisplay::setCollision\lInfoText" alt="" coords="437,5,630,46"/>
+<area shape="rect" id="node4" href="$class_world.html#a1a23a00468ef47c02ccad09b91d3a665" title="World::getCollisionHandler" alt="" coords="446,71,621,97"/>
+<area shape="rect" id="node5" href="$class_subject.html#ae864f7c63ff5a5d538682d076583e0b2" title="Subject::attachObserver" alt="" coords="453,121,614,148"/>
+<area shape="rect" id="node7" href="$class_entity_factory.html#a4677ada240d8d9430f6636f807e84e53" title="EntityFactory::instance" alt="" coords="455,172,612,199"/>
+<area shape="rect" id="node8" href="$class_entity_factory.html#a9639f6792dc1c27f9b8505db88ca4121" title="EntityFactory::create" alt="" coords="461,223,605,249"/>
+<area shape="rect" id="node9" href="$class_i_entity.html#a316408901fc40ff73012466b74a00c0a" title="IEntity::getSize" alt="" coords="478,273,589,300"/>
+<area shape="rect" id="node10" href="$class_i_entity.html#a84ead7ae7eaa1f2d3e97a64abb7ef39f" title="IEntity::setPos" alt="" coords="479,324,587,351"/>
+<area shape="rect" id="node11" href="$class_world.html#a2997cc73702227b1fd533037e71d4972" title="World::addEntity" alt="" coords="474,375,593,401"/>
+<area shape="rect" id="node12" href="$class_world.html#a5880e3f8fa346a004022a5b44b5b9105" title="World::setPlayer" alt="" coords="474,425,593,452"/>
+<area shape="rect" id="node15" href="$class_input_handler.html#ae827a062a99cd2c8aca4ea9cec10fac2" title="InputHandler::removeAllKey\lBinds" alt="" coords="443,477,624,518"/>
+<area shape="rect" id="node16" href="$class_input_handler.html#a2623e97299b2c7f76b3d039c06538ae2" title="InputHandler::removeAllMouse\lBinds" alt="" coords="435,542,632,583"/>
+</map>

@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Utils">
+    <Position X="16.5" Y="14.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Utils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionHandler">
+    <Position X="13.25" Y="3.25" Width="2.25" />
+    <Members>
+      <Method Name="~CollisionHandler" Hidden="true" />
+      <Method Name="CollisionHandler" Hidden="true" />
+      <Method Name="handleProjectileEnemyCollision" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BBAAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAQACAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\CollisionHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadsUpDisplay">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <Members>
+      <Method Name="~HeadsUpDisplay" Hidden="true" />
+      <Field Name="collisionInfoText" Hidden="true" />
+      <Method Name="HeadsUpDisplay" Hidden="true" />
+      <Method Name="setCollisionInfoText" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAIAAoAAAAAAgAAAAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\HeadsUpDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AggressiveState">
+    <Position X="5" Y="13" Width="1.5" />
+    <Members>
+      <Method Name="~AggressiveState" Hidden="true" />
+      <Method Name="AggressiveState" Hidden="true" />
+      <Field Name="clock" Hidden="true" />
+      <Field Name="isGoingLeft" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAACAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\AggressiveState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="8" Y="9.5" Width="1.75" />
+    <Members>
+      <Method Name="~Enemy" Hidden="true" />
+      <Method Name="Enemy" Hidden="true" />
+    </Members>
+    <InheritanceLine Type="IEntity" FixedToPoint="true">
+      <Path>
+        <Point X="6" Y="8.627" />
+        <Point X="6" Y="9.125" />
+        <Point X="8.875" Y="9.125" />
+        <Point X="8.875" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAQ=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegisterEntityTemplateHelper">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\EntityFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFactory">
+    <Position X="0.75" Y="0.5" Width="4" />
+    <Members>
+      <Method Name="~EntityFactory" Hidden="true" />
+      <Method Name="EntityFactory" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAACABAAAAAAABAAACAgAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\EntityFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameState">
+    <Position X="15.75" Y="12" Width="1.5" />
+    <Members>
+      <Method Name="~InGameState" Hidden="true" />
+      <Method Name="InGameState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAJAAAAAACAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\InGameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LargeEnemyTemplate">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\LargeEnemyTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveEntityLeftCommand">
+    <Position X="22.5" Y="14" Width="2" />
+    <Members>
+      <Method Name="~MoveEntityLeftCommand" Hidden="true" />
+      <Field Name="entity" Hidden="true" />
+      <Method Name="MoveEntityLeftCommand" Hidden="true" />
+      <Field Name="window" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAACAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\MoveEntityLeftCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveEntityRightCommand">
+    <Position X="25" Y="14" Width="2.25" />
+    <Members>
+      <Method Name="~MoveEntityRightCommand" Hidden="true" />
+      <Field Name="entity" Hidden="true" />
+      <Method Name="MoveEntityRightCommand" Hidden="true" />
+      <Field Name="window" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAEAAAAAAAAAAAKAAAAAAAAQAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\MoveEntityRightCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassiveState">
+    <Position X="7.5" Y="13" Width="1.5" />
+    <Members>
+      <Method Name="~PassiveState" Hidden="true" />
+      <Field Name="clock" Hidden="true" />
+      <Method Name="PassiveState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\PassiveState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerTemplate">
+    <Position X="7.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\PlayerTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonDraw">
+    <Position X="2.75" Y="12.25" Width="1.75" />
+    <Members>
+      <Method Name="~PolygonDraw" Hidden="true" />
+      <Method Name="PolygonDraw" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\PolygonDraw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputHandler">
+    <Position X="21.75" Y="7.75" Width="5.75" />
+    <Members>
+      <Method Name="~InputHandler" Hidden="true" />
+      <Method Name="InputHandler" Hidden="true" />
+      <Method Name="removeAllBinds" Hidden="true" />
+      <Method Name="removeAllKeyBinds" Hidden="true" />
+      <Method Name="removeAllMouseBinds" Hidden="true" />
+      <Method Name="removeBind" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="InputHandler::KeyBinder" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>E:\Repos\DesignPatternsProject\include\Concrete\InputHandler.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="InputHandler::MouseBinder" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>E:\Repos\DesignPatternsProject\include\Concrete\InputHandler.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAQAIBAAAAAAAAAEAIAAAAAAAAAIAAAFAAI=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\InputHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="4.5" Y="9.5" Width="1.5" />
+    <Members>
+      <Method Name="~Player" Hidden="true" />
+      <Method Name="Player" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEABA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalDraw">
+    <Position X="0.5" Y="12.25" Width="1.75" />
+    <Members>
+      <Method Name="~NormalDraw" Hidden="true" />
+      <Method Name="NormalDraw" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\NormalDraw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile">
+    <Position X="6.25" Y="9.5" Width="1.5" />
+    <Members>
+      <Method Name="~Projectile" Hidden="true" />
+      <Method Name="Projectile" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEIAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\Projectile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectileTemplate">
+    <Position X="5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\ProjectileTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RendererFactory">
+    <Position X="0.5" Y="8" Width="3" />
+    <Members>
+      <Method Name="~RendererFactory" Hidden="true" />
+      <Method Name="RendererFactory" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAEAAAAAAAAABAAAAAAAAgAAAAgAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\RendererFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShootCommand">
+    <Position X="20.5" Y="14" Width="1.5" />
+    <Members>
+      <Method Name="~ShootCommand" Hidden="true" />
+      <Field Name="clock" Hidden="true" />
+      <Field Name="delay" Hidden="true" />
+      <Field Name="entity" Hidden="true" />
+      <Method Name="ShootCommand" Hidden="true" />
+      <Field Name="world" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AIAAEBAAAAAAAAAAgAAEAAgAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\ShootCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmallEnemyTemplate">
+    <Position X="2.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\SmallEnemyTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squaliens">
+    <Position X="12.75" Y="11.25" Width="2" />
+    <Members>
+      <Method Name="~Squaliens" Hidden="true" />
+      <Field Name="gameFont" Hidden="true" />
+      <Method Name="generatePos" Hidden="true" />
+      <Method Name="getHUD" Hidden="true" />
+      <Method Name="getInputHandler" Hidden="true" />
+      <Method Name="getStartScreen" Hidden="true" />
+      <Method Name="getWindow" Hidden="true" />
+      <Method Name="getWorld" Hidden="true" />
+      <Method Name="loadHUD" Hidden="true" />
+      <Method Name="loadLargeEnemy" Hidden="true" />
+      <Method Name="loadPlayer" Hidden="true" />
+      <Method Name="loadSmallEnemy" Hidden="true" />
+      <Method Name="loadStartScreen" Hidden="true" />
+      <Field Name="spawnClock" Hidden="true" />
+      <Field Name="spawnDelay" Hidden="true" />
+      <Method Name="spawnEnemies" Hidden="true" />
+      <Method Name="Squaliens" Hidden="true" />
+      <Field Name="window" Hidden="true" />
+      <Field Name="worldCeiling" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AIAIGggAAAAAJAAAAgKAAACgAYAgABEMAUAAAQAkBAQ=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Concrete\Squaliens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartCommand">
+    <Position X="27.75" Y="14" Width="1.5" />
+    <Members>
+      <Method Name="~StartCommand" Hidden="true" />
+      <Field Name="game" Hidden="true" />
+      <Method Name="StartCommand" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIBAAAAAABAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\StartCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartScreen">
+    <Position X="14" Y="14.75" Width="1.5" />
+    <Members>
+      <Method Name="~StartScreen" Hidden="true" />
+      <Method Name="setStartText" Hidden="true" />
+      <Method Name="StartScreen" Hidden="true" />
+      <Field Name="text" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAIAgAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\StartScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartScreenState">
+    <Position X="18.25" Y="12" Width="1.5" />
+    <Members>
+      <Method Name="~StartScreenState" Hidden="true" />
+      <Method Name="StartScreenState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\StartScreenState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject">
+    <Position X="13.25" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="~Subject" Hidden="true" />
+      <Method Name="Subject" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAIQAAAAAAAIAAAAIAQAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\Subject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World">
+    <Position X="8.25" Y="6.75" Width="2" />
+    <Members>
+      <Method Name="~World" Hidden="true" />
+      <Method Name="addEntity" Hidden="true" />
+      <Method Name="checkCollisions" Hidden="true" />
+      <Field Name="collisionHandler" Hidden="true" />
+      <Method Name="getCollisionHandler" Hidden="true" />
+      <Method Name="getPlayer" Hidden="true" />
+      <Method Name="removeEntity" Hidden="true" />
+      <Method Name="setPlayer" Hidden="true" />
+      <Method Name="World" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAEBAAAQAAAAIAAABAAMACAQABAAAAAACEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICommand">
+    <Position X="23.75" Y="12.25" Width="1.5" />
+    <Members>
+      <Method Name="~ICommand" Hidden="true" />
+      <Method Name="ICommand" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Interfaces\ICommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEntity">
+    <Position X="5" Y="6.75" Width="2" />
+    <Members>
+      <Method Name="~IEntity" Hidden="true" />
+      <Field Name="color" Hidden="true" />
+      <Field Name="dead" Hidden="true" />
+      <Method Name="getCollisionBox" Hidden="true" />
+      <Method Name="getColor" Hidden="true" />
+      <Method Name="getPos" Hidden="true" />
+      <Method Name="getSize" Hidden="true" />
+      <Method Name="getVelocity" Hidden="true" />
+      <Method Name="IEntity" Hidden="true" />
+      <Method Name="isDead" Hidden="true" />
+      <Method Name="kill" Hidden="true" />
+      <Method Name="moveDown" Hidden="true" />
+      <Method Name="moveLeft" Hidden="true" />
+      <Method Name="moveRight" Hidden="true" />
+      <Method Name="moveUp" Hidden="true" />
+      <Field Name="pos" Hidden="true" />
+      <Method Name="setColor" Hidden="true" />
+      <Method Name="setPos" Hidden="true" />
+      <Method Name="setRenderer" Hidden="true" />
+      <Method Name="setSize" Hidden="true" />
+      <Method Name="setVelocity" Hidden="true" />
+      <Field Name="size" Hidden="true" />
+      <Field Name="velocity" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAEACBAIAABAhAAoIAAIAABBAIAACIQARAiEAMgAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Interfaces\IEntity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEntityTemplate">
+    <Position X="3.75" Y="3" Width="2" />
+    <Members>
+      <Method Name="~IEntityTemplate" Hidden="true" />
+      <Method Name="IEntityTemplate" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Interfaces\IEntityTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGame">
+    <Position X="13" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Interfaces\IGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISqualiensState">
+    <Position X="17" Y="9.5" Width="1.5" />
+    <Members>
+      <Method Name="~ISqualiensState" Hidden="true" />
+      <Method Name="ISqualiensState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAgAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Interfaces\ISqualiensState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObserver">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="~IObserver" Hidden="true" />
+      <Method Name="IObserver" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Interfaces\IObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IRenderer">
+    <Position X="1.75" Y="10.5" Width="1.75" />
+    <Members>
+      <Method Name="~IRenderer" Hidden="true" />
+      <Method Name="IRenderer" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Interfaces\IRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEnemyState">
+    <Position X="5.5" Y="11.25" Width="1.75" />
+    <Members>
+      <Method Name="~IEnemyState" Hidden="true" />
+      <Method Name="IEnemyState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAAEAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\Include\Interfaces\IEnemyState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DrawingAPI">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Repos\DesignPatternsProject\include\Concrete\RendererFactory.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

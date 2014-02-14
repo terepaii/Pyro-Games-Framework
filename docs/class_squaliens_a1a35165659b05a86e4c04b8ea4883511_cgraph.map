@@ -1,0 +1,5 @@
+<map id="Squaliens::loadHUD" name="Squaliens::loadHUD">
+<area shape="rect" id="node2" href="$class_heads_up_display.html#a3f7c58276a064757302b91df20dfd135" title="HeadsUpDisplay::setCollision\lInfoText" alt="" coords="193,5,386,46"/>
+<area shape="rect" id="node3" href="$class_world.html#a1a23a00468ef47c02ccad09b91d3a665" title="World::getCollisionHandler" alt="" coords="202,71,377,97"/>
+<area shape="rect" id="node4" href="$class_subject.html#ae864f7c63ff5a5d538682d076583e0b2" title="Subject::attachObserver" alt="" coords="209,121,370,148"/>
+</map>

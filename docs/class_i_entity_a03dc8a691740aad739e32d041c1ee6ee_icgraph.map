@@ -1,0 +1,6 @@
+<map id="IEntity::setSize" name="IEntity::setSize">
+<area shape="rect" id="node2" href="$class_large_enemy_template.html#aa08dc7cdf7142918f3279d262fa684ed" title="LargeEnemyTemplate\l::createEntity" alt="" coords="187,5,335,46"/>
+<area shape="rect" id="node3" href="$class_player_template.html#afba5c6cf747d58c5c0661f2075824bdb" title="PlayerTemplate::createEntity" alt="" coords="166,71,357,97"/>
+<area shape="rect" id="node4" href="$class_projectile_template.html#a95e2159a9fa0417565dc0c4e67c1138e" title="ProjectileTemplate\l::createEntity" alt="" coords="197,122,326,163"/>
+<area shape="rect" id="node5" href="$class_small_enemy_template.html#a533622dab7cf2474e194d83b68122fe4" title="SmallEnemyTemplate\l::createEntity" alt="" coords="187,187,336,229"/>
+</map>

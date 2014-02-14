@@ -1,0 +1,6 @@
+<map id="Squaliens::getInputHandler" name="Squaliens::getInputHandler">
+<area shape="rect" id="node2" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="247,5,387,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="245,56,390,83"/>
+<area shape="rect" id="node4" href="$class_start_screen_state.html#a47c056dac53afa0fa26b324d1c99deab" title="StartScreenState::onSet" alt="" coords="235,107,399,133"/>
+<area shape="rect" id="node5" href="$class_start_screen_state.html#a7547b6202c436d324d092c1d9533cacb" title="StartScreenState::update" alt="" coords="233,157,402,184"/>
+</map>

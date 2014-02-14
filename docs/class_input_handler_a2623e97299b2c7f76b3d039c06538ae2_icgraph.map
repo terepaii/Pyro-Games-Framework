@@ -1,0 +1,5 @@
+<map id="InputHandler::removeAllMouseBinds" name="InputHandler::removeAllMouseBinds">
+<area shape="rect" id="node2" href="$class_input_handler.html#a029b59c1c40e2d5145e50ce78de7e782" title="InputHandler::removeAllBinds" alt="" coords="251,31,442,57"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="503,5,643,32"/>
+<area shape="rect" id="node4" href="$class_start_screen_state.html#a47c056dac53afa0fa26b324d1c99deab" title="StartScreenState::onSet" alt="" coords="491,56,655,83"/>
+</map>

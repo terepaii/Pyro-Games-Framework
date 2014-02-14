@@ -1,0 +1,4 @@
+<map id="StartScreen::setStartText" name="StartScreen::setStartText">
+<area shape="rect" id="node2" href="$class_squaliens.html#a571a1661ff59f6d8f7885a1c06bfec0a" title="Squaliens::loadStartScreen" alt="" coords="225,5,405,32"/>
+<area shape="rect" id="node3" href="$class_start_screen_state.html#a47c056dac53afa0fa26b324d1c99deab" title="StartScreenState::onSet" alt="" coords="454,5,618,32"/>
+</map>

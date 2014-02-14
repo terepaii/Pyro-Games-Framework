@@ -1,0 +1,4 @@
+<map id="IEnemyState" name="IEnemyState">
+<area shape="rect" id="node2" href="$class_aggressive_state.html" title="AggressiveState" alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$class_passive_state.html" title="PassiveState" alt="" coords="145,80,244,107"/>
+</map>

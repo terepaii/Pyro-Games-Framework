@@ -1,0 +1,8 @@
+<map id="Squaliens::loadPlayer" name="Squaliens::loadPlayer">
+<area shape="rect" id="node2" href="$class_entity_factory.html#a4677ada240d8d9430f6636f807e84e53" title="EntityFactory::instance" alt="" coords="203,5,360,32"/>
+<area shape="rect" id="node3" href="$class_entity_factory.html#a9639f6792dc1c27f9b8505db88ca4121" title="EntityFactory::create" alt="" coords="209,56,353,83"/>
+<area shape="rect" id="node4" href="$class_i_entity.html#a316408901fc40ff73012466b74a00c0a" title="IEntity::getSize" alt="" coords="226,107,337,133"/>
+<area shape="rect" id="node5" href="$class_i_entity.html#a84ead7ae7eaa1f2d3e97a64abb7ef39f" title="IEntity::setPos" alt="" coords="227,157,335,184"/>
+<area shape="rect" id="node6" href="$class_world.html#a2997cc73702227b1fd533037e71d4972" title="World::addEntity" alt="" coords="222,208,341,235"/>
+<area shape="rect" id="node7" href="$class_world.html#a5880e3f8fa346a004022a5b44b5b9105" title="World::setPlayer" alt="" coords="222,259,341,285"/>
+</map>

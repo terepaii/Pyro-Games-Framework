@@ -1,0 +1,5 @@
+<map id="RendererFactory::instance" name="RendererFactory::instance">
+<area shape="rect" id="node2" href="$class_large_enemy_template.html#aa08dc7cdf7142918f3279d262fa684ed" title="LargeEnemyTemplate\l::createEntity" alt="" coords="251,5,399,46"/>
+<area shape="rect" id="node3" href="$class_player_template.html#afba5c6cf747d58c5c0661f2075824bdb" title="PlayerTemplate::createEntity" alt="" coords="230,71,421,97"/>
+<area shape="rect" id="node4" href="$class_small_enemy_template.html#a533622dab7cf2474e194d83b68122fe4" title="SmallEnemyTemplate\l::createEntity" alt="" coords="251,122,400,163"/>
+</map>

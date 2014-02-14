@@ -1,0 +1,4 @@
+<map id="IEntity::moveDown" name="IEntity::moveDown">
+<area shape="rect" id="node2" href="$class_aggressive_state.html#a4cac8178d67084922f766a3aff9ba4ad" title="AggressiveState::handle" alt="" coords="184,5,347,32"/>
+<area shape="rect" id="node3" href="$class_passive_state.html#aebf3515199d69ac435ca8589fe0ae9e3" title="PassiveState::handle" alt="" coords="193,56,337,83"/>
+</map>

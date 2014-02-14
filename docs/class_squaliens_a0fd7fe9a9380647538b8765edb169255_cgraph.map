@@ -1,0 +1,8 @@
+<map id="Squaliens::loadSmallEnemy" name="Squaliens::loadSmallEnemy">
+<area shape="rect" id="node2" href="$class_entity_factory.html#a4677ada240d8d9430f6636f807e84e53" title="EntityFactory::instance" alt="" coords="241,5,399,32"/>
+<area shape="rect" id="node3" href="$class_entity_factory.html#a9639f6792dc1c27f9b8505db88ca4121" title="EntityFactory::create" alt="" coords="248,56,392,83"/>
+<area shape="rect" id="node4" href="$class_i_entity.html#a84ead7ae7eaa1f2d3e97a64abb7ef39f" title="IEntity::setPos" alt="" coords="266,107,374,133"/>
+<area shape="rect" id="node5" href="$class_squaliens.html#a112ac42d1f2b54ac5f89d6865c95442b" title="Squaliens::generatePos" alt="" coords="240,157,400,184"/>
+<area shape="rect" id="node7" href="$class_world.html#a2997cc73702227b1fd533037e71d4972" title="World::addEntity" alt="" coords="261,208,379,235"/>
+<area shape="rect" id="node6" href="$class_utils.html#a25ef1ba846cfa03435b529f08f1cd331" title="Utils::generateRand" alt="" coords="448,157,584,184"/>
+</map>

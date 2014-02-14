@@ -1,0 +1,5 @@
+<map id="Squaliens::getWorld" name="Squaliens::getWorld">
+<area shape="rect" id="node2" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="195,5,335,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a2a94ff158dc003dc3b2618ad6dc518a7" title="InGameState::update" alt="" coords="193,56,338,83"/>
+<area shape="rect" id="node4" href="$class_in_game_state.html#a55ad6dd300bfd576510605baf7e4b834" title="InGameState::draw" alt="" coords="199,107,332,133"/>
+</map>

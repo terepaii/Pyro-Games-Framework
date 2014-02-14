@@ -1,0 +1,3 @@
+<map id="Squaliens::loadStartScreen" name="Squaliens::loadStartScreen">
+<area shape="rect" id="node2" href="$class_start_screen_state.html#a47c056dac53afa0fa26b324d1c99deab" title="StartScreenState::onSet" alt="" coords="235,5,399,32"/>
+</map>

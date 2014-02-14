@@ -1,0 +1,4 @@
+<map id="World::setPlayer" name="World::setPlayer">
+<area shape="rect" id="node2" href="$class_squaliens.html#a514d13f7ac44791fbf218e981c142a16" title="Squaliens::loadPlayer" alt="" coords="174,5,322,32"/>
+<area shape="rect" id="node3" href="$class_in_game_state.html#a8b46a7a75989ba2ab535818ae2a68f3b" title="InGameState::onSet" alt="" coords="371,5,511,32"/>
+</map>

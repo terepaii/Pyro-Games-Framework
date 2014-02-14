@@ -1,0 +1,5 @@
+<map id="IEntity" name="IEntity">
+<area shape="rect" id="node3" href="$class_enemy.html" title="Enemy" alt="" coords="5,155,67,181"/>
+<area shape="rect" id="node4" href="$class_player.html" title="Player" alt="" coords="92,155,151,181"/>
+<area shape="rect" id="node5" href="$class_projectile.html" title="Projectile" alt="" coords="175,155,251,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="World::checkCollisions" name="World::checkCollisions">
+<area shape="rect" id="node2" href="$class_i_entity.html#ad8d45723fac563c6a48d11f49a2a0383" title="IEntity::getCollisionBox" alt="" coords="223,5,380,32"/>
+<area shape="rect" id="node3" href="$class_collision_handler.html#a8ff91da4de2115946f9ba567a54a8c6b" title="CollisionHandler::onCollision" alt="" coords="208,56,395,83"/>
+<area shape="rect" id="node4" href="$class_collision_handler.html#a012c4163ffd123846439cae1bc898f6f" title="CollisionHandler::handle\lProjectileEnemyCollision" alt="" coords="443,49,610,90"/>
+<area shape="rect" id="node5" href="$class_i_entity.html#aefce6f45bb4cdb5d45db381f452a2ed7" title="IEntity::kill" alt="" coords="699,31,781,57"/>
+<area shape="rect" id="node6" href="$class_subject.html#a130edb815aef88deebc1542a32fa9af9" title="Subject::notifyObservers" alt="" coords="659,81,821,108"/>
+</map>

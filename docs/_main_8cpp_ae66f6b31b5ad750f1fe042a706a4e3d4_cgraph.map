@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_squaliens.html#ab25c39b808a56cbae0c7cf276db1834c" title="Squaliens::run" alt="" coords="105,81,210,108"/>
+<area shape="rect" id="node3" href="$class_squaliens.html#a8e03e8b6462091a20493525c9a9bedec" title="Squaliens::setState" alt="" coords="277,5,413,32"/>
+<area shape="rect" id="node5" href="$class_input_handler.html#afc0a381c205ee61663ec2311214b5836" title="InputHandler::handleEvent" alt="" coords="259,56,431,83"/>
+<area shape="rect" id="node6" href="$class_squaliens.html#a051767525359abe25bbc51b0e32eb697" title="Squaliens::update" alt="" coords="282,107,409,133"/>
+<area shape="rect" id="node8" href="$class_squaliens.html#af5730ca67d528c20d75e3f091c2a33ee" title="Squaliens::draw" alt="" coords="288,157,403,184"/>
+<area shape="rect" id="node4" href="$class_i_squaliens_state.html#a657e438969d1030644e8e7a6910908f1" title="ISqualiensState::onSet" alt="" coords="483,5,637,32"/>
+<area shape="rect" id="node7" href="$class_i_squaliens_state.html#a950b726d863e9349638b777583020eef" title="ISqualiensState::update" alt="" coords="480,107,640,133"/>
+<area shape="rect" id="node9" href="$class_i_squaliens_state.html#a038e4b3d9f5ce56a052b97aece115f04" title="ISqualiensState::draw" alt="" coords="486,157,634,184"/>
+</map>

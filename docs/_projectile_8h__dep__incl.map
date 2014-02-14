@@ -1,0 +1,20 @@
+<map id="include/Concrete/Projectile.h" name="include/Concrete/Projectile.h">
+<area shape="rect" id="node2" href="$_collision_handler_8h.html" title="include/Concrete/Collision\lHandler.h" alt="" coords="593,81,764,122"/>
+<area shape="rect" id="node17" href="$_projectile_template_8h.html" title="include/Concrete/Projectile\lTemplate.h" alt="" coords="881,81,1057,122"/>
+<area shape="rect" id="node19" href="$_projectile_8cpp.html" title="src/Projectile.cpp" alt="" coords="1083,88,1205,115"/>
+<area shape="rect" id="node3" href="$_heads_up_display_8h.html" title="include/Concrete/HeadsUp\lDisplay.h" alt="" coords="331,171,507,213"/>
+<area shape="rect" id="node12" href="$_world_8h.html" title="include/Concrete/World.h" alt="" coords="549,179,717,205"/>
+<area shape="rect" id="node16" href="$_collision_handler_8cpp.html" title="src/CollisionHandler.cpp" alt="" coords="741,179,904,205"/>
+<area shape="rect" id="node4" href="$_squaliens_8h.html" title="include/Concrete/Squaliens.h" alt="" coords="323,261,513,288"/>
+<area shape="rect" id="node11" href="$_heads_up_display_8cpp.html" title="src/HeadsUpDisplay.cpp" alt="" coords="133,261,299,288"/>
+<area shape="rect" id="node5" href="$_start_command_8h.html" title="include/Concrete/StartCommand.h" alt="" coords="11,336,232,363"/>
+<area shape="rect" id="node7" href="$_start_screen_state_8cpp.html" title="src/StartScreenState.cpp" alt="" coords="185,411,353,437"/>
+<area shape="rect" id="node8" href="$_in_game_state_8cpp.html" title="src/InGameState.cpp" alt="" coords="579,336,724,363"/>
+<area shape="rect" id="node9" href="$_main_8cpp.html" title="src/Main.cpp" alt="" coords="307,336,404,363"/>
+<area shape="rect" id="node10" href="$_squaliens_8cpp.html" title="src/Squaliens.cpp" alt="" coords="429,336,555,363"/>
+<area shape="rect" id="node6" href="$_start_command_8cpp.html" title="src/StartCommand.cpp" alt="" coords="5,411,160,437"/>
+<area shape="rect" id="node13" href="$_shoot_command_8h.html" title="include/Concrete/ShootCommand.h" alt="" coords="539,261,765,288"/>
+<area shape="rect" id="node15" href="$_world_8cpp.html" title="src/World.cpp" alt="" coords="790,261,892,288"/>
+<area shape="rect" id="node14" href="$_shoot_command_8cpp.html" title="src/ShootCommand.cpp" alt="" coords="749,336,912,363"/>
+<area shape="rect" id="node18" href="$_projectile_template_8cpp.html" title="src/ProjectileTemplate.cpp" alt="" coords="928,179,1104,205"/>
+</map>

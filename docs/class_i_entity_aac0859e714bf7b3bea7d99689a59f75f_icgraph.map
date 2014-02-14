@@ -1,0 +1,11 @@
+<map id="IEntity::getVelocity" name="IEntity::getVelocity">
+<area shape="rect" id="node2" href="$class_i_entity.html#a0ab5359db48a2b758603c5f687d025d6" title="IEntity::moveUp" alt="" coords="195,13,309,40"/>
+<area shape="rect" id="node4" href="$class_i_entity.html#a7288d7c0b1329dd258f917221367802b" title="IEntity::moveDown" alt="" coords="187,123,317,149"/>
+<area shape="rect" id="node7" href="$class_i_entity.html#a7bfcb85f15ce7a173cfebaeeb7adb61c" title="IEntity::moveLeft" alt="" coords="193,72,311,99"/>
+<area shape="rect" id="node9" href="$class_i_entity.html#a9ac0ee1fa5fa60a84428017b388b8d71" title="IEntity::moveRight" alt="" coords="189,173,315,200"/>
+<area shape="rect" id="node3" href="$class_projectile.html#a8b32ce7d21ec9032812b528e5cb87cc7" title="Projectile::update" alt="" coords="392,5,515,32"/>
+<area shape="rect" id="node5" href="$class_aggressive_state.html#a4cac8178d67084922f766a3aff9ba4ad" title="AggressiveState::handle" alt="" coords="372,173,535,200"/>
+<area shape="rect" id="node6" href="$class_passive_state.html#aebf3515199d69ac435ca8589fe0ae9e3" title="PassiveState::handle" alt="" coords="381,123,525,149"/>
+<area shape="rect" id="node8" href="$class_move_entity_left_command.html#a614f0d1d7a394e8fabf2a51250bb8b2f" title="MoveEntityLeftCommand\l::execute" alt="" coords="370,57,537,98"/>
+<area shape="rect" id="node10" href="$class_move_entity_right_command.html#afd5157c6e1c09c922cdeada22876ab05" title="MoveEntityRightCommand\l::execute" alt="" coords="366,225,541,266"/>
+</map>

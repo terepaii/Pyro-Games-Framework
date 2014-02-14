@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\AggressiveState.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Enemy.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\EntityFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\HeadsUpDisplay.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\InputHandler.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\MoveEntityLeftCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\MoveEntityRightCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\NormalDraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\PassiveState.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\PolygonDraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\World.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Subject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\SmallEnemyTemplate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Squaliens.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Projectile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\ProjectileTemplate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\ShootCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\CollisionHandler.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\PlayerTemplate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\IEntity.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\RendererFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\LargeEnemyTemplate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\StartScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\StartScreenState.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\InGameState.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\StartCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\include\Concrete\World.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\AggressiveState.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\Enemy.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\EntityFactory.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\HeadsUpDisplay.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\InputHandler.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\MoveEntityLeftCommand.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\MoveEntityRightCommand.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\NormalDraw.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\PassiveState.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\Player.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\PolygonDraw.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\Subject.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Interfaces\ICommand.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Interfaces\IEntity.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Interfaces\IObserver.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Utils.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Interfaces\IEntityTemplate.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\PlayerTemplate.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\SmallEnemyTemplate.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Interfaces\IGame.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Concrete\Squaliens.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\Projectile.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\ProjectileTemplate.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\ShootCommand.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\CollisionHandler.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Interfaces\IRenderer.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\RendererFactory.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Include\Interfaces\IEnemyState.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\LargeEnemyTemplate.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\StartScreen.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Interfaces\ISqualiensState.h">
+      <Filter>include\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\StartScreenState.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\StartCommand.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\Concrete\InGameState.h">
+      <Filter>include\concrete</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{99eec724-d6ee-412b-b3a8-2cdd561d08d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{58e040a9-bc97-418f-b471-77fdffb8aa50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\concrete">
+      <UniqueIdentifier>{d8a55bc7-705f-4716-a021-c59bfcba2217}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\interfaces">
+      <UniqueIdentifier>{a2b40a57-112d-4c31-815f-3ce36567041f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>

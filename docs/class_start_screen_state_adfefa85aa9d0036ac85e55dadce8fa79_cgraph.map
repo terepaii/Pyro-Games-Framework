@@ -1,0 +1,4 @@
+<map id="StartScreenState::draw" name="StartScreenState::draw">
+<area shape="rect" id="node2" href="$class_squaliens.html#acf08fd7a9223417daa125080eab44ec5" title="Squaliens::getWindow" alt="" coords="223,5,374,32"/>
+<area shape="rect" id="node3" href="$class_squaliens.html#aaa72e58c0357bfc4f406226aba0d0dc4" title="Squaliens::getStartScreen" alt="" coords="211,56,386,83"/>
+</map>
